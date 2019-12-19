@@ -1,6 +1,6 @@
 # Know Your Match Shiny Pokemon Api
 
-[example]:./ShinyPokePng/example.JPG
+![example](./ShinyPokePng/example.JPG)
 
 ## Things that I learn
 ### I learn about how to build a fundamental server with a cache and how to use API easily from this project
